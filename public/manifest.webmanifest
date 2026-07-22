@@ -1,0 +1,19 @@
+{
+  "name": "Pokémon Trainer Journal",
+  "short_name": "Trainer Journal",
+  "description": "A completionist field journal for Pokémon animation.",
+  "id": "/pokemon-completionist-watchlist/",
+  "start_url": "/pokemon-completionist-watchlist/",
+  "scope": "/pokemon-completionist-watchlist/",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait-primary",
+  "background_color": "#f5ecd6",
+  "theme_color": "#f5ecd6",
+  "icons": [
+    {"src":"/pokemon-completionist-watchlist/icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"/pokemon-completionist-watchlist/icons/icon-192-maskable.png","sizes":"192x192","type":"image/png","purpose":"maskable"},
+    {"src":"/pokemon-completionist-watchlist/icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
+    {"src":"/pokemon-completionist-watchlist/icons/icon-512-maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}
+  ]
+}
